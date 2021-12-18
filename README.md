@@ -27,11 +27,14 @@ query = ["Cricket", "Football", "Badminton", "Tennis", "Baseball", "Chess"]
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Tech Stack 🚀 :
+
 - 1. Django 
+
 - 2. Django Rest Framework
-- 3. React
-- 4. Youtube Data API v3
-- 5. Celery & Redis
+
+- 3. Youtube Data API v3
+
+- 4. Celery & Redis
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
