@@ -4,7 +4,7 @@ backports.zoneinfo==0.2.1
 billiard==3.6.4.0
 black==21.12b0
 cachetools==4.2.4
-celery==5.2.1
+celery==5.2.2
 certifi==2021.10.8
 charset-normalizer==2.0.9
 click==8.0.3
